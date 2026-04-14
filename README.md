@@ -7,7 +7,12 @@ Paola Busia, Andrea Pinna, Paolo Meloni
 ```
 The scripts require tensorflow==2.8.3 and should be placed in the parent directory of the dataset download, together with the trained models. 
 
+The Kvasir ETIS-Larib WCE curated dataset can be downloaded from here:
 
-The CVC-Clinic DB and CVC Colon DB can be downloaded here:
+https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning
+
+The CVC-Clinic DB and CVC Colon DB can be downloaded from here:
 
 https://figshare.com/articles/figure/Polyp_DataSet_zip/21221579?file=37636550
+
+
