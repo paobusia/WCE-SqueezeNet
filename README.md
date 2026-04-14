@@ -11,6 +11,10 @@ The Kvasir ETIS-Larib WCE curated dataset can be downloaded from here:
 
 https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning
 
+The LDPolyp Video Benchmark is available here:
+
+https://github.com/dashishi/LDPolypVideo-Benchmark
+
 The CVC-Clinic DB and CVC Colon DB can be downloaded from here:
 
 https://figshare.com/articles/figure/Polyp_DataSet_zip/21221579?file=37636550
