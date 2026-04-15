@@ -5,7 +5,7 @@ This repository collects the trained models and the evaluation code to replicate
 WCE-SqueezeNet: Targeting On-Capsule CNN Inference for Energy Efficient Microcontroller-based Endoscopy
 Paola Busia, Andrea Pinna, Paolo Meloni
 ```
-The scripts require tensorflow==2.8.3 and should be placed in the parent directory of the dataset download, together with the trained models. 
+The scripts require torch==2.6.0 torchvision==0.21.0 numpy==1.26.4 and should be placed in the parent directory of the dataset download, together with the trained models. 
 
 The Kvasir ETIS-Larib WCE curated dataset can be downloaded from here:
 
